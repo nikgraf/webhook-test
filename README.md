@@ -1,8 +1,4 @@
 webhook-test
 ============
 
-wee
-
-a
-
-test
+yeah
